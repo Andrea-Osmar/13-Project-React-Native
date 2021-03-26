@@ -19,4 +19,4 @@ I had some issues with vs code and found it easier to work and troubleshoot in e
 
 ## View it live
 
-Try yourself to get [sorted](https://snack.expo.io/@andrea.osmar/086b10) into one of the Hogwarts houses
+Try yourself to get [sorted](https://snack.expo.io/@andrea.osmar/sorting-ceremony---9%C2%BE) into one of the Hogwarts houses
